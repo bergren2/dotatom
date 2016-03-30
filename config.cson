@@ -1,0 +1,13 @@
+"*":
+  core: {}
+  editor:
+    invisibles:
+      space: " "
+    showInvisibles: true
+    softWrapAtPreferredLineLength: true
+  "exception-reporting":
+    userId: "6b59b1be-712c-d9ce-09a6-c54044272906"
+  "file-types":
+    "asmx[\\.*]?": "text.html.aspx"
+  welcome:
+    showOnStartup: false
